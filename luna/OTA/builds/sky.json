@@ -1,3 +1,28 @@
 {
-  "test": "test"
+    "response": [
+        {
+            "maintainer": "Lua",
+            "oem": "",
+            "device": "sky",
+            "filename": "Lunaris-AOSP-sky-Community-3.10-GMS-2026051214.zip",
+            "download": "https://cdn.luasup.xyz/sky/Lunaris/Lunaris-AOSP-sky-Community-3.10-GMS-2026051214.zip",
+            "timestamp": 1778596728,
+            "md5": "6c9e0ee229de117c4ec966235215b3a3",
+            "sha256": "712fe237153993128b3b30f317258c2c23b664fdf8ffcadb7f3ca91366879386",
+            "size": 2337617224,
+            "version": "3.10",
+            "buildtype": "user",
+            "forum": "",
+            "gapps": "yes",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "t.me/c8_xd",
+            "dt": "https://github.com/sm4450-development/device_xiaomi_sky.git",
+            "common-dt": "",
+            "kernel": "https://github.com/lostark13/kernel_xiaomi_sky.git"
+        }
+    ]
 }
